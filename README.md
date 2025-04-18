@@ -1,4 +1,10 @@
-# super-trunfo-c
-Repositório destinado a realizar trabalhos educacionais. 
+# Desafio Super Trunfo Linguagem em C
+Neste repositório, estarão todas as atividades relacionadas aos **trabalhos** da disciplina de Introdução à Programação de Computadores. O desenvolvimento e as publicações serão feitas conforme os temas 1, 2, 3 e 4, com seus respectivos caminhos para acessar os projetos completos.
 
-Este projeto é uma implementação em linguagem C de uma batalha de cartas no estilo Super Trunfo, onde duas cartas são comparadas com base em atributos como população, área, PIB, pontos turísticos e mais.
+
+## Menu de navegação
+- [Tema I - Super Trufo Completo](https://github.com/Shakalinux/super-trunfo-c/blob/main/super_trunc.c)
+Aqui está o primeiro projeto do Tema I, já finalizado.
+
+- [Tema II - Super Trunfo Desenvolvimento Parte 2](https://github.com/Shakalinux/super-trunfo-c/tree/main/super-trunfo-c-pt2)
+Este é o projeto do Tema II, que está sendo desenvolvido de acordo com os níveis propostos. A seguir, apresentamos a primeira parte.
