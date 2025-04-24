@@ -7,4 +7,4 @@ Neste repositório, estarão todas as atividades relacionadas aos **trabalhos** 
 Aqui está o primeiro projeto do Tema I, já finalizado.
 
 - [Tema II - Super Trunfo Desenvolvimento Parte 2](https://github.com/Shakalinux/super-trunfo-c/tree/main/super-trunfo-c-pt2)
-Este é o projeto do Tema II, que está sendo desenvolvido de acordo com os níveis propostos. A seguir, apresentamos a primeira parte.
+Este é o projeto do Tema II, que está sendo desenvolvido de acordo com os níveis propostos. A seguir, apresentamos a primeira final.
