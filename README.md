@@ -8,3 +8,6 @@ Aqui está o primeiro projeto do Tema I, já finalizado.
 
 - [Tema II - Super Trunfo Desenvolvimento Parte 2](https://github.com/Shakalinux/super-trunfo-c/tree/main/super-trunfo-c-pt2)
 Este é o projeto do Tema II, que está sendo desenvolvido de acordo com os níveis propostos. A seguir, apresentamos a primeira final.
+
+- [Tema III - Tabuleiro de Xadrez Parte 2](https://github.com/Shakalinux/super-trunfo-c/tree/main/tabuleiro-xadrez)
+Este é o projeto do tema III. A seguir, apresenntamos a segunda parte. 
